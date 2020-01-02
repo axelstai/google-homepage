@@ -1,0 +1,17 @@
+#logo {
+    width: 17em;
+    display: block;
+    margin: 0 auto;
+    margin-top: 13.8%;
+}
+
+#searchbar {
+    display: block;
+    margin: 0 auto;
+    height: 2.8em;
+    width: 35em;
+    margin-top: 2em;
+    font-size: 16px; 
+    border-radius: 25px;
+    
+}
